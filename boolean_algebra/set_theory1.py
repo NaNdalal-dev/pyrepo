@@ -51,9 +51,3 @@ print('\ncompliment of setA :')
 print(vowels-setA)
 print('\ncompliment of setB :')
 print(vowels-setB)
-
-
-
-
-
-
