@@ -40,23 +40,3 @@ if(A==1 or A==0):
 	
 else:
 	print(A,' is invalid option')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
